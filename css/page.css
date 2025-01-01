@@ -1,0 +1,194 @@
+.zhi-mang-xing-regular {
+  font-family: "Zhi Mang Xing", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "FZ";
+  src: url(../font/FangSong.ttf);
+}
+
+@font-face {
+  font-family: "FZKai";
+  src: url(../font/FZKai.ttf);
+}
+
+body, html {
+  height: 100%;
+  margin: 0;
+  background-color: #FCF9E8;
+}
+
+.navbar {
+  margin-left: 5%;
+  margin-top: -1% !important;
+}
+
+.navlink {
+  padding-right: 5% !important;
+  display: inline !important;
+  text-decoration: none;
+  color: black;
+}
+
+.navlink a {
+  text-decoration: none;
+  color: white;
+  font-family: "FZKai";
+  font-size: 20px;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("../image/Home background.png");
+  /* Full height */
+  height: 100%; 
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: auto;
+  height: 100%;
+}
+
+.b2 {
+  /* The image used */
+  background-image: url("../image/Frame 31.png"); 
+  /* Full height */
+  height: 100%; 
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: auto;
+  height: 100%;
+}
+
+.b3 {
+  /* The image used */
+  background-image:url("../image/Frame 43.png");
+  /* Full height */
+  height: 100%; 
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: auto;
+  height: 100%;
+}
+
+.b4 {
+  /* The image used */
+  background-image: url("../image/usage background.png");
+  /* Full height */
+  height: 100%; 
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: auto;
+  height: 100%;
+}
+
+.b5 {
+  /* The image used */
+  background-image: url("../image/shop background.png");
+  /* Full height */
+  height: 100%; 
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: auto;
+  height: 100%;
+}
+
+.home_heading{
+  font-family: "Zhi Mang Xing", serif;
+  font-size: 90px;
+}
+
+.home_text{
+  margin-top: 100px;
+}
+
+.home_text p{
+  font-family: "FZ";
+  font-size: 18px;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.history{
+  margin-top: 10%;
+}
+
+
+textarea {
+  width: 150%;
+  height: 150px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  box-shadow: inset -1px -1px 10px rgba(0,0,0,0.2);
+  border-radius: 4px;
+  border: none !important;
+  background-color: #FCF9E8;
+  font-size: 16px;
+  resize: none;
+}
+
+.footer{
+  background-color: #FCEBDB;
+  margin-top: 100px;
+  padding-top: 50px;
+}
+
+.ft{
+  margin-top: 40px;
+}
+
+.tt{
+  margin-top: 5px;
+  font-weight:bold;
+}
+
+.footer a{
+  text-decoration:none ;
+}
+
+
+.tm{
+  margin-top: 45px;
+}
+
+.fontab{
+  font-family:'Abril Fatface', serif;
+}
+
+.tmp{
+  margin-top: 30px;
+}
+
+.pp{
+  margin-top: 30px;
+}
+
+.ct{
+font-size: 30px;
+font-family: "FZKai";
+}
+
+.gusf li p{
+  font-size: 30px;
+  font-family: "FZKai";
+}
+
+.test{
+  text-decoration: none;
+  list-style-type : none;
+}
+
+.test1 li{
+  display: inline;
+}
